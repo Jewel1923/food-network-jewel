@@ -1,0 +1,37 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+    color: rgb(24, 24, 23);
+}
+.half{
+    width: 50%;
+    padding-left: 5%;
+}
+.flex{
+    display: flex;
+    padding-bottom: 150px;
+}
+.half img{
+    width: 80%;
+}
+.color{
+    color: orange;
+}
+.first-section{
+    background-image: url(frame1.jpg);
+    background-repeat: no-repeat;
+}
+.font-change{
+    font-family:'Courier New', Courier, monospace;
+}
+.button{
+    text-decoration: none;
+    background-color:orange;
+    padding: 10px 40px;
+    border-radius: 10px;
+    color: black;
+    font-weight: 700;
+}
